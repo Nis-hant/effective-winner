@@ -1,0 +1,101 @@
+h1{
+	text-align: center;
+	background:black;
+	color: #ffffff
+
+}
+
+p{
+	margin: 50px;
+	text-align: center;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+footer{
+	text-align: center;
+
+	background: black;
+	margin: 30px;
+	color: #ffffff
+
+}
+
+h2{
+	text-align: center;
+	
+	background: black;
+	color: #ffffff;
+	padding: 20px;
+	margin: 20px;
+}
+
+#carouselExampleIndicators{
+	text-align: center;
+}
+h3{
+	text-align: center;
+	background: black;
+	color: #ffffff;
+	padding: 20px;
+	margin: 20px;
+}
+
+nav{
+	word-spacing:normal;
+
+	padding: 20px;
+}
+
+.box-1{
+
+	border: solid;
+	padding: 10px;
+	margin: 20px;
+}
+
+
+
+
+}
+
+form{
+	text-align: center;
+	word-spacing: normal;
+	padding: 20px;
+	margin: 10px;
+	border: solid black;
+	
+	color: black;
+
+}
+
+
+#footer_aboutus{
+
+	background: none;
+	color: white;
+}
+
+
+#form_login{
+
+	text-align: center;
+	margin: 30px;
+	background-color:black;
+	color: 
+
+}
+
+#about_us1{
+
+	color: white;
+	font-size: 20px;
+}
+
+#servicesOffered{
+
+	color:white;
+	font-family: arial;
+	font-size: 25px;
+}
